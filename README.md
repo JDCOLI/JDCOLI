@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=José%20Colindres&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer&descAlignY=55&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,100:ff4500&height=300&section=header&text=José%20Colindres&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Warrior&descAlignY=58&descAlign=62&thickness=2)
 
 </div>
 
@@ -8,58 +8,82 @@
 
 <div align="center">
 
-### 🔧 Backend Development • Integrations • Automation
+### ⚔️ BACKEND ENGINEER • INTEGRATION WARRIOR • CODE ARCHITECT
 
 **Compañía Azucarera Tres Valles**
 
-[![Email](https://img.shields.io/badge/📧_Email-jcolindres@3valles.hn-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:jcolindres@3valles.hn)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-@JDCOLI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JDCOLI)
+<br>
+
+[![Email](https://img.shields.io/badge/🔥_CONTACT_ME-jcolindres@3valles.hn-ff4500?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:jcolindres@3valles.hn)
+[![GitHub](https://img.shields.io/badge/⚡_GITHUB-@JDCOLI-ff6b35?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/JDCOLI)
 
 </div>
 
 ---
-
-## 🔥 Contribution Metrics
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=JDCOLI&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=FF6B6B&currStreakNum=58a6ff&sideNums=58a6ff)
+```
+    ╔═══════════════════════════════════════════╗
+    ║     WARRIOR'S ARSENAL - TECH STACK       ║
+    ╚═══════════════════════════════════════════╝
+```
 
 </div>
 
----
-
-## 📈 Activity Graph
+## 🔥 COMBAT STATS
 
 <div align="center">
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=JDCOLI&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=FF6B6B&area=true&area_color=58a6ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JDCOLI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1a1a&title_color=ff6b35&icon_color=ff4500&text_color=ff9999&ring_color=ff6b35&disable_animations=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JDCOLI&layout=donut&theme=tokyonight&hide_border=true&bg_color=1a1a1a&title_color=ff6b35&text_color=ff9999&disable_animations=false)
 
 </div>
 
 ---
 
-## 🎯 Stats Overview
+## ⚡ BATTLE STREAK
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=JDCOLI&theme=tokyonight&hide_border=true&background=1a1a1a&ring=ff6b35&fire=ff4500&currStreakNum=ff6b35&sideNums=ff6b35)
+
+</div>
+
+---
+
+## 🗺️ CONQUEST MAP
+
+<div align="center">
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=JDCOLI&theme=tokyo-night&hide_border=true&bg_color=1a1a1a&color=ff6b35&line=ff6b35&point=ff4500&area=true&area_color=ff6b35)
+
+</div>
+
+---
+
+## ⚔️ WARRIOR STATS
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Contributions-20%2B-58a6ff?style=flat&logo=github&logoColor=white" /><br>
-<sub><b>Total</b></sub>
+<img src="https://img.shields.io/badge/⚔️_VICTORIES-20%2B-ff4500?style=flat&logoColor=white&labelColor=1a1a1a" /><br>
+<sub><b>BATTLES WON</b></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Languages-5%2B-58a6ff?style=flat&logo=code&logoColor=white" /><br>
-<sub><b>Primary</b></sub>
+<img src="https://img.shields.io/badge/💪_WEAPONS-5%2B-ff6b35?style=flat&logoColor=white&labelColor=1a1a1a" /><br>
+<sub><b>MASTERED</b></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Experience-2%2B%20Years-58a6ff?style=flat&logo=calendar&logoColor=white" /><br>
-<sub><b>Professional</b></sub>
+<img src="https://img.shields.io/badge/🏆_EXPERIENCE-2%2B%20YEARS-ff4500?style=flat&logoColor=white&labelColor=1a1a1a" /><br>
+<sub><b>IN COMBAT</b></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Open%20Source-Active-58a6ff?style=flat&logo=rocket&logoColor=white" /><br>
-<sub><b>Contributor</b></sub>
+<img src="https://img.shields.io/badge/🌟_CODE%20HONOR-9000-ff6b35?style=flat&logoColor=white&labelColor=1a1a1a" /><br>
+<sub><b>POWER LEVEL</b></sub>
 </td>
 </tr>
 </table>
@@ -68,110 +92,183 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛡️ ARSENAL - MASTER WEAPONS
 
 <div align="center">
 
-### 🎨 Frontend Technologies
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white&labelColor=0D1117)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)
+### ⚡ FRONTEND BLADES
+![React](https://img.shields.io/badge/⚛️_REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a1a)
+![TypeScript](https://img.shields.io/badge/📘_TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a1a)
+![JavaScript](https://img.shields.io/badge/⚡_JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a)
+![Ionic](https://img.shields.io/badge/📱_IONIC-3880FF?style=for-the-badge&logo=ionic&logoColor=white&labelColor=1a1a1a)
 
-### ⚙️ Backend & Integrations
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117)
-![SAP](https://img.shields.io/badge/SAP-0FAADC?style=for-the-badge&logo=sap&logoColor=white&labelColor=0D1117)
+### 🔥 BACKEND SWORDS
+![Python](https://img.shields.io/badge/🐍_PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)
+![FastAPI](https://img.shields.io/badge/⚡_FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1a1a)
+![Node.js](https://img.shields.io/badge/🟢_NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a1a)
+![SAP](https://img.shields.io/badge/🔗_SAP-0FAADC?style=for-the-badge&logo=sap&logoColor=white&labelColor=1a1a1a)
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
-![MySQL](https://img.shields.io/badge/MySQL-005C7B?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-1B9CFC?style=for-the-badge&logo=arcgis&logoColor=white&labelColor=0D1117)
+### 🗄️ VAULT SHIELDS
+![PostgreSQL](https://img.shields.io/badge/🐘_POSTGRES-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a)
+![MySQL](https://img.shields.io/badge/🐬_MYSQL-005C7B?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a)
+![ArcGIS](https://img.shields.io/badge/🗺️_ARCGIS-1B9CFC?style=for-the-badge&logo=arcgis&logoColor=white&labelColor=1a1a1a)
 
-### 🚀 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117)
+### 🚀 ARMORY TOOLS
+![Docker](https://img.shields.io/badge/🐳_DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a)
+![Git](https://img.shields.io/badge/🔀_GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a)
+![GitHub](https://img.shields.io/badge/🐙_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)
 
 </div>
 
 ---
 
-## 🤝 Open Source & Collaborative Projects
+## ⚔️ LEGENDARY BATTLES - FEATURED QUESTS
 
 <div align="center">
 
-> Actively contributing to open source projects and collaborative initiatives
+### 🌱 OPTI RIEGO - THE HARVEST QUEST
+**Monsoon Monitoring System**
 
-| Project | Stack | Contribution | Status |
-|---------|-------|--------------|--------|
-| **Project Name** | Python • FastAPI | Backend Development | 🟢 Active |
-| **Project Name** | React • TypeScript | Frontend Contributor | 🟢 Active |
-| **Project Name** | Node.js • PostgreSQL | Full Stack | 🟢 Active |
-| **Project Name** | Python • APIs | Integration Development | 🟢 Active |
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black&labelColor=1a1a1a)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white&labelColor=1a1a1a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&labelColor=1a1a1a)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-1B9CFC?style=flat&logo=arcgis&logoColor=white&labelColor=1a1a1a)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=1a1a1a)
 
-> *Update the table with your actual collaborative projects*
+```
+🔥 Real-time sensor warfare
+🗺️  Geospatial battle maps
+🚨 Alert command center
+📊 Epic dashboards
+```
+
+---
+
+### 🔌 API CATV - THE BRIDGE KEEPER
+**Enterprise Integration Nexus**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=1a1a1a)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white&labelColor=1a1a1a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&labelColor=1a1a1a)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=1a1a1a)
+
+```
+🔗 System integration warfare
+🤖 Automation rituals
+🔐 Security fortifications
+📡 Scalable pathways
+```
+
+---
+
+### 🏢 INTRANET CATV - THE FORTRESS
+**Corporate Kingdom Portal**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black&labelColor=1a1a1a)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white&labelColor=1a1a1a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&labelColor=1a1a1a)
+
+```
+📋 Process command center
+🎯 Departmental dominance
+⚡ Lightning performance
+🔒 Impenetrable security
+```
+
+---
+
+### 📱 ACTIVIDADES AGRÍCOLAS - FIELD SCOUT
+**Mobile Reconnaissance Unit**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black&labelColor=1a1a1a)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white&labelColor=1a1a1a)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=1a1a1a)
+
+```
+📲 Offline conquest mode
+🔄 Synchronization rituals
+🌍 Geolocation tracking
+⚡ Battle-hardened interface
+```
 
 </div>
 
 ---
 
-## 💡 Core Competencies
+## 🤝 ALLIED FORCES - COLLABORATIVE CAMPAIGNS
+
+<div align="center">
+
+> **Warriors who code together, dominate together**
+
+| Quest | Arsenal | Role | Status |
+|-------|---------|------|--------|
+| **Project Name** | Python • FastAPI | Backend Commander | 🟢 ACTIVE |
+| **Project Name** | React • TypeScript | Frontend Champion | 🟢 ACTIVE |
+| **Project Name** | Node.js • PostgreSQL | Full Stack Warrior | 🟢 ACTIVE |
+| **Project Name** | Python • APIs | Integration Master | 🟢 ACTIVE |
+
+> *Fill with your actual collaborative projects*
+
+</div>
+
+---
+
+## 💎 WARRIOR ABILITIES
 
 <div align="center">
 
 | 🔗 | ⚙️ | 📱 | 🚀 | 🔐 |
 |:---:|:---:|:---:|:---:|:---:|
-| **Integrations** | **Scalable APIs** | **Mobile Apps** | **DevOps** | **Backend Systems** |
-| SAP • Legacy Systems | FastAPI • REST | React • Ionic | Docker • Git | PostgreSQL • Python |
-| Data Transformation | Database Design | Real-time Sync | Automation | Performance Optimization |
+| **INTEGRATION** | **API MASTERY** | **MOBILE COMBAT** | **DEVOPS RITUALS** | **BACKEND FORTRESS** |
+| System Fusion | REST Warrior | React Ninja | Docker Mystic | DB Architect |
+| Legacy Taming | FastAPI Sage | Ionic Knight | CI/CD Sorcerer | SQL Conjurer |
 
 </div>
 
 ---
 
-## 🎖️ Achievements
+## 🏆 ACHIEVEMENTS & BATTLE HONORS
 
 <div align="center">
 
-![Badge](https://img.shields.io/badge/🌟-Multiple%20Integrations-58a6ff?style=for-the-badge)
-![Badge](https://img.shields.io/badge/🔧-20%2B%20Technologies-58a6ff?style=for-the-badge)
-![Badge](https://img.shields.io/badge/🤝-Open%20Source%20Contributor-58a6ff?style=for-the-badge)
-![Badge](https://img.shields.io/badge/⚡-Performance%20Optimized-58a6ff?style=for-the-badge)
+![Badge](https://img.shields.io/badge/⚔️_INTEGRATION_MASTER-ff4500?style=for-the-badge&labelColor=1a1a1a)
+![Badge](https://img.shields.io/badge/🛡️_20%2B_TECHNOLOGIES-ff6b35?style=for-the-badge&labelColor=1a1a1a)
+![Badge](https://img.shields.io/badge/🌟_OPEN_SOURCE_WARRIOR-ff4500?style=for-the-badge&labelColor=1a1a1a)
+![Badge](https://img.shields.io/badge/⚡_PERFORMANCE_CHAMPION-ff6b35?style=for-the-badge&labelColor=1a1a1a)
 
 </div>
 
 ---
 
-## 📊 Skills Distribution
+## 📊 SKILL MASTERY LEVEL
 
 <div align="center">
 
 ```
-Python       ███████████████░░  60%
-React/TS     ██████░░░░░░░░░░░  25%
-SQL          ███░░░░░░░░░░░░░░  10%
-Other        ░░░░░░░░░░░░░░░░░   5%
+Python        ████████████████░░ 90% ⚔️
+React/TS      █████████░░░░░░░░░ 70% ⚡
+SQL/Database  ████████░░░░░░░░░░ 75% 🔐
+APIs/Backend  ███████████████░░░ 85% 🔥
+DevOps        ██████░░░░░░░░░░░░ 60% 🚀
 ```
 
 </div>
 
 ---
 
-## 📫 Contact & Connect
+## ⚡ RECRUIT ME FOR YOUR QUEST
 
 <div align="center">
 
-**Open to collaboration on backend development, API integrations, and automation projects**
+**Seeking legendary challenges in backend warfare, API sorcery, and system integration**
+
+**Ready for the next battle ⚔️**
 
 <br>
 
-[![Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcolindres@3valles.hn)
-[![GitHub](https://img.shields.io/badge/Visit%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JDCOLI)
+[![Fire Email](https://img.shields.io/badge/🔥_SEND_MISSION-jcolindres@3valles.hn-ff4500?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:jcolindres@3valles.hn)
+[![GitHub Fort](https://img.shields.io/badge/⚡_GITHUB_DOJO-@JDCOLI-ff6b35?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/JDCOLI)
 
 </div>
 
@@ -179,6 +276,6 @@ Other        ░░░░░░░░░░░░░░░░░   5%
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer&text=Made%20with%20❤️&fontSize=20&fontColor=fff)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff4500,100:ff6b35&height=120&section=footer&text=🔥%20CODE%20WARRIOR%20🔥&fontSize=20&fontColor=fff)
 
 </div>
