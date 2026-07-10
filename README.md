@@ -19,18 +19,6 @@
 
 ---
 
-## 📊 Dashboard Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JDCOLI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&disable_animations=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JDCOLI&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&disable_animations=false)
-
-</div>
-
----
-
 ## 🔥 Contribution Metrics
 
 <div align="center">
