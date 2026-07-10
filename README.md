@@ -1,73 +1,88 @@
-<h1 align="center">Hola, soy José Colindres 👋</h1>
+# José Colindres
 
-<h3 align="center">
-Desarrollador Full Stack | React | Python | FastAPI | Bases de datos
-</h3>
+Full Stack Developer enfocado en **automatización agrícola** e **integraciones empresariales**. Trabajo desarrollando sistemas que conectan el campo con la tecnología, desde monitoreo de sensores hasta integraciones complejas con SAP.
 
-<p align="center">
-Desarrollador de soluciones web, integraciones SAP y sistemas para el sector agroindustrial.
-</p>
+**Actualmente en:** Compañía Azucarera Tres Valles
 
 ---
 
-## 👨‍💻 Sobre mí
+## Experiencia
 
-- 💼 Desarrollador de software en Compañía Azucarera Tres Valles
-- 🌱 Actualmente trabajando con React, FastAPI, PostgreSQL y Docker
-- 🔌 Experiencia integrando servicios SAP
-- 🗺️ Desarrollo de soluciones relacionadas con riego, mapas y agricultura
-- 📍 Honduras
-
-## 🛠️ Tecnologías
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,python,fastapi,postgres,mysql,docker,git,github,vscode" />
-</p>
-
-## 📊 Estadísticas
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=JDCOLI&show_icons=true&theme=github_dark&hide_border=true"
-  />
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDCOLI&layout=compact&theme=github_dark&hide_border=true"
-  />
-</p>
-
-## 🔥 Actividad
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=JDCOLI&theme=github-dark-blue&hide_border=true"
-  />
-</p>
-
-## 🚀 Proyectos destacados
-
-### Opti Riego
-
-Sistema para monitoreo y administración de riego agrícola.
-
-**Tecnologías:** React, FastAPI, PostgreSQL, Docker y ArcGIS.
-
-### API CATV
-
-API para integración de aplicaciones internas, bases de datos y servicios SAP.
-
-**Tecnologías:** Python, FastAPI, PostgreSQL y Docker.
-
-### Aplicación de actividades agrícolas
-
-Aplicación móvil y web para el registro de operaciones agrícolas.
-
-**Tecnologías:** TypeScript, Ionic y servicios REST.
+- **Sistemas agrícolas inteligentes** - Desarrollé plataformas de monitoreo de riego en tiempo real con análisis geoespacial
+- **Integraciones SAP** - APIs que conectan SAP con aplicaciones modernas y automatización de procesos
+- **Full Stack Development** - Arquitectura completa desde base de datos hasta interfaces React
 
 ---
 
-<p align="center">
-  Gracias por visitar mi perfil.
-</p>
+## Stack Técnico
+
+**Frontend:** React • TypeScript • HTML/CSS  
+**Backend:** Python • FastAPI • Node.js  
+**Datos:** PostgreSQL • MySQL  
+**DevOps:** Docker • Git  
+**Especialidades:** ArcGIS • Integraciones SAP • APIs REST
+
+---
+
+## Proyectos Principales
+
+### 🌱 Opti Riego
+Sistema de monitoreo agrícola que integra sensores IoT, mapas interactivos y automatización de riego.
+- Gestión en tiempo real de datos de sensores
+- Mapas con ArcGIS para análisis geoespacial
+- Sistema de alertas inteligentes
+- Dashboard administrativo
+
+**Stack:** React • FastAPI • PostgreSQL • Docker
+
+---
+
+### 🔌 API CATV
+API empresarial que actúa como hub de integración entre SAP, sistemas internos y servicios corporativos.
+- Autenticación y autorización segura
+- Transformación de datos entre sistemas legacy y modernos
+- Automatización de procesos B2B
+- Documentación interactiva
+
+**Stack:** Python • FastAPI • PostgreSQL
+
+---
+
+### 🏢 Intranet CATV
+Portal interno para gestión de procesos empresariales con módulos específicos para el negocio.
+
+**Stack:** React • FastAPI • PostgreSQL
+
+---
+
+### 📱 Actividades Agrícolas
+App móvil para captura de datos en campo con offline-first architecture.
+
+**Stack:** React • Ionic • TypeScript
+
+---
+
+## Estadísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JDCOLI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JDCOLI&layout=compact&theme=tokyonight&hide_border=true)
+
+![Contribution Streak](https://streak-stats.demolab.com?user=JDCOLI&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Contacto
+
+📧 [jdcolindres@tresvalles.hn](mailto:jdcolindres@tresvalles.hn)
+
+---
+
+<div align="center">
+
+**Siempre buscando nuevos desafíos en agricultura inteligente, automatización y fintech** ⚡
+
+</div>
