@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=José%20Colindres&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Automation%20Engineer&descAlignY=55&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=José%20Colindres&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer&descAlignY=55&descAlign=62)
 
 </div>
 
@@ -8,12 +8,12 @@
 
 <div align="center">
 
-### 🎯 Building Smart Agriculture & Enterprise Integrations
+### 🔧 Backend Development • Integrations • Automation
+
 **Compañía Azucarera Tres Valles**
 
-[![Email](https://img.shields.io/badge/📧_Email-jdcolindres@tresvalles.hn-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:jdcolindres@tresvalles.hn)
+[![Email](https://img.shields.io/badge/📧_Email-jcolindres@3valles.hn-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:jcolindres@3valles.hn)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-@JDCOLI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JDCOLI)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-José_Colindres-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 </div>
 
@@ -23,9 +23,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JDCOLI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JDCOLI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&disable_animations=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JDCOLI&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JDCOLI&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&disable_animations=false)
 
 </div>
 
@@ -66,12 +66,12 @@
 <sub><b>Primary</b></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Projects-4%2B-58a6ff?style=flat&logo=rocket&logoColor=white" /><br>
-<sub><b>Active</b></sub>
+<img src="https://img.shields.io/badge/Experience-2%2B%20Years-58a6ff?style=flat&logo=calendar&logoColor=white" /><br>
+<sub><b>Professional</b></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Experience-5%2B%20Years-58a6ff?style=flat&logo=calendar&logoColor=white" /><br>
-<sub><b>Years</b></sub>
+<img src="https://img.shields.io/badge/Open%20Source-Active-58a6ff?style=flat&logo=rocket&logoColor=white" /><br>
+<sub><b>Contributor</b></sub>
 </td>
 </tr>
 </table>
@@ -92,13 +92,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)
 
-### ⚙️ Backend & Automation
+### ⚙️ Backend & Integrations
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117)
 ![SAP](https://img.shields.io/badge/SAP-0FAADC?style=for-the-badge&logo=sap&logoColor=white&labelColor=0D1117)
 
-### 🗄️ Databases & GIS
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
 ![MySQL](https://img.shields.io/badge/MySQL-005C7B?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-1B9CFC?style=for-the-badge&logo=arcgis&logoColor=white&labelColor=0D1117)
@@ -113,95 +113,20 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🤝 Open Source & Collaborative Projects
 
 <div align="center">
 
-### 🌱 Opti Riego
-**Smart Agriculture Monitoring System**
+> Actively contributing to open source projects and collaborative initiatives
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-1B9CFC?style=flat&logo=arcgis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+| Project | Stack | Contribution | Status |
+|---------|-------|--------------|--------|
+| **Project Name** | Python • FastAPI | Backend Development | 🟢 Active |
+| **Project Name** | React • TypeScript | Frontend Contributor | 🟢 Active |
+| **Project Name** | Node.js • PostgreSQL | Full Stack | 🟢 Active |
+| **Project Name** | Python • APIs | Integration Development | 🟢 Active |
 
-```
-✨ Real-time IoT sensor monitoring
-🗺️  Interactive geospatial maps with ArcGIS
-🚨 Intelligent alert system
-📊 Advanced admin dashboard
-🌾 Irrigation automation
-```
-
----
-
-### 🔌 API CATV
-**Enterprise Integration Hub**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-```
-🔗 SAP ↔ Internal Systems Integration
-🤖 B2B Process Automation
-🔐 Secure Authentication & Authorization
-📡 Scalable REST APIs
-⚡ High-performance data transformation
-```
-
----
-
-### 🏢 Intranet CATV
-**Corporate Management Portal**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-```
-📋 Centralized process management
-🎯 Department-specific modules
-⚡ Optimized performance
-🔒 Granular access control
-📊 Real-time dashboards
-```
-
----
-
-### 📱 Actividades Agrícolas
-**Mobile Field Data Capture App**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-```
-📲 Offline-first architecture
-🔄 Real-time synchronization
-🌍 Integrated geolocation
-⚡ Field-optimized interface
-📸 Media capture & storage
-```
-
-</div>
-
----
-
-## 👥 Open Source & Collaborative Projects
-
-<div align="center">
-
-> Contributing to innovative projects across the ecosystem
-
-| Project | Stack | Role | Status |
-|---------|-------|------|--------|
-| **Project Alpha** | React • FastAPI • PostgreSQL | Backend Developer | 🟢 Active |
-| **Project Beta** | Python • ArcGIS • Docker | Full Stack | 🟢 Active |
-| **Project Gamma** | TypeScript • Node.js • MongoDB | Frontend Lead | 🟢 Active |
-| **AgriTech Initiative** | IoT • Python • Geospatial | Core Contributor | 🟢 Active |
+> *Update the table with your actual collaborative projects*
 
 </div>
 
@@ -211,30 +136,30 @@
 
 <div align="center">
 
-| 🌱 | 🔗 | ⚙️ | 📱 | 🚀 |
+| 🔗 | ⚙️ | 📱 | 🚀 | 🔐 |
 |:---:|:---:|:---:|:---:|:---:|
-| **Smart Agriculture** | **Enterprise Integration** | **Scalable APIs** | **Mobile Apps** | **DevOps** |
-| IoT • Sensors | SAP • ERP Systems | FastAPI • REST | React • Ionic | Docker • Git |
-| ArcGIS • Geospatial | Legacy Integration | PostgreSQL | Offline-first | Automation |
+| **Integrations** | **Scalable APIs** | **Mobile Apps** | **DevOps** | **Backend Systems** |
+| SAP • Legacy Systems | FastAPI • REST | React • Ionic | Docker • Git | PostgreSQL • Python |
+| Data Transformation | Database Design | Real-time Sync | Automation | Performance Optimization |
 
 </div>
 
 ---
 
-## 🎖️ Achievements & Milestones
+## 🎖️ Achievements
 
 <div align="center">
 
-![Badge](https://img.shields.io/badge/🌟-4%20Major%20Projects-58a6ff?style=for-the-badge)
+![Badge](https://img.shields.io/badge/🌟-Multiple%20Integrations-58a6ff?style=for-the-badge)
 ![Badge](https://img.shields.io/badge/🔧-20%2B%20Technologies-58a6ff?style=for-the-badge)
-![Badge](https://img.shields.io/badge/📈-Enterprise%20Solutions-58a6ff?style=for-the-badge)
 ![Badge](https://img.shields.io/badge/🤝-Open%20Source%20Contributor-58a6ff?style=for-the-badge)
+![Badge](https://img.shields.io/badge/⚡-Performance%20Optimized-58a6ff?style=for-the-badge)
 
 </div>
 
 ---
 
-## 📊 Language Distribution
+## 📊 Skills Distribution
 
 <div align="center">
 
@@ -249,17 +174,16 @@ Other        ░░░░░░░░░░░░░░░░░   5%
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact & Connect
 
 <div align="center">
 
-**Building the future of smart agriculture and enterprise automation**
+**Open to collaboration on backend development, API integrations, and automation projects**
 
 <br>
 
-[![Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jdcolindres@tresvalles.hn)
+[![Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcolindres@3valles.hn)
 [![GitHub](https://img.shields.io/badge/Visit%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JDCOLI)
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-667eea?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 </div>
 
